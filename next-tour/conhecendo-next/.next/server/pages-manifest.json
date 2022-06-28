@@ -1,0 +1,7 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/posts/[id]/comentarios": "pages/posts/[id]/comentarios.js",
+  "/posts/[id]": "pages/posts/[id].js"
+}
